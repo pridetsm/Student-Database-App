@@ -1,0 +1,2 @@
+rootProject.name='Student-Database-App'
+include ':app'
